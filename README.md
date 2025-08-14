@@ -9,24 +9,6 @@ Problems are organized by topic, and each problem has:
 
 ---
 
-## 📂 Repository Structure
-GFG-DSA-Solutions/
-│
-├── Python-Lists/
-│ ├── Problem-1-Name/
-│ │ ├── solution.py
-│ │ └── README.md
-│ ├── Problem-2-Name/
-│ │ ├── solution.py
-│ │ └── README.md
-│
-├── LinkedLists/
-│ ├── Problem-Name/
-│ │ ├── solution.py
-│ │ └── README.md
-│
-└── ...
-
 📌 Notes
 All solutions are written in Python 3.
 Problem descriptions are not copied; only the link to the original problem on GFG is provided.
